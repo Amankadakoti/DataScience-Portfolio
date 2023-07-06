@@ -51,15 +51,4 @@ To get started with the Game Analysis project, follow these steps:
 
 Contributions to the Game Analysis project are welcome! If you have any ideas, suggestions, or improvements, feel free to submit an issue or pull request.
 
-## License
-
-The Game Analysis project and the dataset are licensed under the [MIT License](LICENSE). You are free to use and modify the code and dataset as per the terms specified in the license.
-
-## Contact
-
-For any questions, suggestions, or collaborations related to the Game Analysis project, please contact [your-email@example.com](mailto:amt34351@gmail@.com).
-
-
-
-
 
