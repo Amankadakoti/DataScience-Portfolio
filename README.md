@@ -57,7 +57,7 @@ The Game Analysis project and the dataset are licensed under the [MIT License](L
 
 ## Contact
 
-For any questions, suggestions, or collaborations related to the Game Analysis project, please contact [your-email@example.com](mailto:your-email@example.com).
+For any questions, suggestions, or collaborations related to the Game Analysis project, please contact [your-email@example.com](mailto:amt34351@gmail@.com).
 
 
 
